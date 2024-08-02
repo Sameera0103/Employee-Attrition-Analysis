@@ -1,6 +1,7 @@
 # Employee Attrition Analysis
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+[![Watch the video](https://github.com/Sameera0103/Employee-Attrition-Analysis/blob/main/employee%20atttrition%20dashboard%20.png
+)](https://github.com/Sameera0103/Employee-Attrition-Analysis/blob/main/employee%20attrition%20dashboard.mp4)
 ## Executive Summary
 The Employee Attrition Analysis project aims to identify key factors contributing to employee turnover in an organization. By analyzing various aspects such as job roles, education fields, and salary hikes, we provide insights into the patterns and trends associated with employee attrition. This analysis helps the organization develop targeted strategies to retain talent and improve employee satisfaction.
 
