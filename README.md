@@ -11,32 +11,32 @@ Employee attrition is a significant concern for organizations, leading to increa
 3. How do salary hikes influence attrition rates?
 
 ## Methodology
-** Data Collection:** Gathered data from company records, including employee demographics, job roles, tenure, education fields, salary hikes, and attrition status.
-** Data Cleaning:** Ensured data quality by handling missing values, outliers, and inconsistencies.
-** Exploratory Data Analysis (EDA):** Analyzed trends and patterns in the data using visualizations.
-** Statistical Analysis:** Employed statistical methods to identify significant factors influencing attrition.
-** Visualization:** Created an interactive dashboard to visualize key findings and trends.
+**Data Collection:** Gathered data from company records, including employee demographics, job roles, tenure, education fields, salary hikes, and attrition status.
+**Data Cleaning:** Ensured data quality by handling missing values, outliers, and inconsistencies.
+**Exploratory Data Analysis (EDA):** Analyzed trends and patterns in the data using visualizations.
+**Statistical Analysis:** Employed statistical methods to identify significant factors influencing attrition.
+**Visualization:** Created an interactive dashboard to visualize key findings and trends.
 
 ## Skills Utilized
-** Data Analysis:** SQL, Excel
-** Statistical Analysis:** Hypothesis testing, correlation analysis
-** Data Visualization:** Power BI
-** Business Intelligence:** Strategic insights and recommendations
+**Data Analysis:** SQL, Excel
+**Statistical Analysis:** Hypothesis testing, correlation analysis
+**Data Visualization:** Power BI
+**Business Intelligence:** Strategic insights and recommendations
 
 ## Results & Business Recommendations
 ### Key Findings:
 
-** Attrition Rate:** The overall attrition rate is 16.1%.
-** High-Risk Groups:** Employees in sales executive roles, with certain education fields like life sciences, and those with lower salary hikes, show higher attrition rates.
-** Demographic Insights:** Younger employees and those with fewer years in the company are more likely to leave.
+**Attrition Rate:** The overall attrition rate is 16.1%.
+**High-Risk Groups:** Employees in sales executive roles, with certain education fields like life sciences, and those with lower salary hikes, show higher attrition rates.
+**Demographic Insights:** Younger employees and those with fewer years in the company are more likely to leave.
 
 ### Business Recommendations:
 
-** Targeted Retention Programs:** Develop specific retention strategies for high-risk groups, including personalized career development plans and competitive compensation packages.
-** Career Advancement Opportunities:** Enhance growth opportunities for employees in roles with high turnover rates.
-** Improved Communication:** Increase engagement and communication with employees to understand their concerns and improve job satisfaction.
+**Targeted Retention Programs:** Develop specific retention strategies for high-risk groups, including personalized career development plans and competitive compensation packages.
+**Career Advancement Opportunities:** Enhance growth opportunities for employees in roles with high turnover rates.
+**Improved Communication:** Increase engagement and communication with employees to understand their concerns and improve job satisfaction.
 
 ## Next Steps
-** Deep Dive Analysis:** Conduct further analysis on specific factors such as work-life balance, managerial relationships, and job satisfaction.
-** Predictive Modeling:** Develop predictive models to forecast future attrition and identify at-risk employees.
-** Monitoring & Evaluation:** Implement and monitor retention strategies, regularly evaluating their effectiveness and making adjustments as needed.
+**Deep Dive Analysis:** Conduct further analysis on specific factors such as work-life balance, managerial relationships, and job satisfaction.
+**Predictive Modeling:** Develop predictive models to forecast future attrition and identify at-risk employees.
+**Monitoring & Evaluation:** Implement and monitor retention strategies, regularly evaluating their effectiveness and making adjustments as needed.
